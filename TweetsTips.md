@@ -1,5 +1,7 @@
 # All WebStorm Tips
 
+[back to index](README.md)
+
 <!--ts-->
 
 <!--te-->
@@ -81,7 +83,7 @@ Comment and uncomment blocks of code with Ctrl+Shift+/ in WebStorm.
 
 
 
-Quickly add a <script> tag to an html page by dragging and dropping the script file onto the page.
+Quickly add a `<script>` tag to an html page by dragging and dropping the script file onto the page.
 
 <video controls style="max-width:100%" src="assets/DxH-wwcW0AADDB2.mp4"></video>
 
@@ -123,7 +125,7 @@ Start the new year with great looking code! Just press Ctrl-Alt-L/Cmd-Alt-L in W
 
 
 
-Are there CSS <style> tags lingering in your HTML pages? You can refactor them and move the CSS code to its own file easily by using the Extract to File menu option in WebStorm.
+Are there CSS `<style>` tags lingering in your HTML pages? You can refactor them and move the CSS code to its own file easily by using the Extract to File menu option in WebStorm.
 
 <video controls style="max-width:100%" src="assets/DvgKkNeWoAAmMNa.mp4"></video>
 

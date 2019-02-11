@@ -1,6 +1,9 @@
 # New Features
 
+[back to index](README.md)
+
 <!--ts-->
+
    * [New Features](#new-features)
    * [2018.3](#20183)
       * [JavaScript &amp; TypeScript](#javascript--typescript)
