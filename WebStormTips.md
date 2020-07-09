@@ -6,7 +6,7 @@
 
 <!--te-->
 
-
+★ - Highly Recommended WebStorm Productivity Tips and Tricks.
 
 <!-- Begin Feb 8  -->
 
@@ -34,13 +34,13 @@ Sometimes you write some unnecessary code, but don't worry, WebStorm has you cov
 
 
 
-Working with Vue.js? Convert chunks of code into Vue components easily with Alt+Enter which invokes WebStorm's Extract Component intention.
+**★ Working with Vue.js? Convert chunks of code into Vue components easily with Alt+Enter which invokes WebStorm's Extract Component intention.**
 
 <video controls style="max-width:100%" src="assets/DyVC_pFWoAABq_m.mp4"></video>
 
 
 
-Use Ctrl+J/Cmd-J. to launch WebStorm's Live Templates and zip through common HTML elements.
+**★ Use Ctrl+J/Cmd-J. to launch WebStorm's Live Templates and zip through common HTML elements.**
 
 <video controls style="max-width:100%" src="assets/DyQItqlWsAAs-hO.mp4"></video>
 
@@ -71,7 +71,7 @@ The quick search works in any list or tree view in the IDE.
 
 
 
-A lot of time is spent moving code around to get it in the right place. Use Alt+Shift+Up/Alt+Shift+Down in WebStorm to move lines up or down.  It's much easier than copy and paste!
+**★ A lot of time is spent moving code around to get it in the right place. Use `Alt+Shift+Up/Alt+Shift+Down` in WebStorm to move lines up or down.  It's much easier than copy and paste!**
 
 <video controls style="max-width:100%" src="assets/Dxce8xNX0AARe3v.mp4"></video>
 
@@ -83,7 +83,7 @@ Comment and uncomment blocks of code with Ctrl+Shift+/ in WebStorm.
 
 
 
-Quickly add a `<script>` tag to an html page by dragging and dropping the script file onto the page.
+**★ Quickly add a `<script>` tag to an html page by dragging and dropping the script file onto the page.**
 
 <video controls style="max-width:100%" src="assets/DxH-wwcW0AADDB2.mp4"></video>
 
@@ -174,7 +174,7 @@ And if you want to add getter, press Cmd-N / Alt-Insert and select the correspon
 
 
 
-Need to remove a tag? Press Alt-Enter and select Remove tag.
+**★ Need to remove a tag? Press `Alt-Enter` and select Remove tag.**
 
 <video controls style="max-width:100%" src="assets/DuUCGGhW4AEK6ie.mp4"></video>
 
@@ -210,13 +210,13 @@ WebStorm 2018.3 introduced multi-line TODO comments. Indent comments after the f
 
 
 
-Boost your productivity! Quickly switch between files or tool windows in WebStorm by pressing Alt+E.
+**★ Boost your productivity! Quickly switch between files or tool windows in WebStorm by pressing `Alt+E`.**
 
 <video controls style="max-width:100%" src="assets/Dtf5r0_XgAEpYId.mp4"></video>
 
 
 
-The Surround With feature in WebStorm is a popular feature for developers who write HTML. Select the elements and press Alt+Enter to surround with the HTML you want.
+**★ The Surround With feature in WebStorm is a popular feature for developers who write HTML. Select the elements and press `Alt+Enter` to surround with the HTML you want.**
 
 <video controls style="max-width:100%" src="assets/DtLhFw0W0AUZkGa.mp4"></video>
 
@@ -266,7 +266,7 @@ Use the Manage projects action to open recent projects. You can find it with the
 
 
 
-You can quickly change the UI theme from dark to light or the over way around using the Quick Switch popup (Ctrl-`).
+**★ You can quickly change the UI theme from dark to light or the over way around using the Quick Switch popup (Ctrl-`).**
 
 <video controls style="max-width:100%" src="assets/DrWFItSX0AAK2G4.mp4"></video>
 
@@ -278,9 +278,10 @@ ESLint and TSLint can fix some of the errors they report. To apply this fix in W
 
 
 
-To jump between style / html / typescript files of your #Angular component:
-- use "Jump to Navigation Bar" shortcut (⌘+↑ or [alt]+[home]) 
-- and press arrow down or start typing the extension
+**★ To jump between style / html / typescript files of your #Angular component:**
+
+- **use "Jump to Navigation Bar" shortcut (`⌘+↑` or `[alt]+[home]`)** 
+- **and press `arrow down` or start typing the extension**
 
 <video controls style="max-width:100%" src="assets/6eCYeba34eUpJUNV.mp4"></video>
 
@@ -348,10 +349,10 @@ If there's a number next to the action name, press the corresponding number on t
 
 
 
-Spotted a warning?
-- Hover over it or press Cmd/Ctrl-F1 to see the description and the first quick-fix
-- To apply the fix, click it or use Alt-Shift-Enter
-- Press Alt-Enter to see all fixes and intentions
+**★ Spotted a warning?**
+- **Hover over it or press `Cmd/Ctrl-F1` to see the description and the first quick-fix**
+- **To apply the fix, click it or use `Alt-Shift-Enter**`
+- **Press `Alt-Enter` to see all fixes and intentions**
 
 <video controls style="max-width:100%" src="assets/DnDirWnXgAApxfR.mp4"></video>
 
@@ -392,7 +393,7 @@ If you're using nodemon for your Node.js app and want to debug it in WebStorm, d
 
 
 
-Press Shift-Cmd/Ctrl-C to copy a full path to the current file. And if you want a path from the project root, select file in the project view and press Alt-Shift-Cmd/Ctrl-C
+**★ Press `Shift-Cmd/Ctrl-C` to copy a full path to the current file. And if you want a path from the project root, select file in the project view and press `Alt-Shift-Cmd/Ctrl-C`**
 
 ![img](assets/DlDg5FbXoAEcD_K.jpg)
 
@@ -404,8 +405,8 @@ Did you know that you can create files AND directories using the New - File acti
 
 
 
-In JSON configs WebStorm can auto-complete the properties, show descriptions for them and possible values.
-Based on the file name, WebStorm picks a JSON Schema file from [http://schemastore.org/json/ ](https://t.co/tWKU0dJmsv), but you can select a different schema in the status bar.
+**★ In JSON configs WebStorm can auto-complete the properties, show descriptions for them and possible values.**
+**Based on the file name, WebStorm picks a JSON Schema file from [http://schemastore.org/json/ ](https://t.co/tWKU0dJmsv), but you can select a different schema in the status bar.**
 
 <video controls style="max-width:100%" src="assets/DkuV0CRXgAA-BCy.mp4"></video>
 
@@ -417,7 +418,7 @@ Did you know that the documentation popup (F1) can show the image preview 🔎?
 
 
 
-With postfix completion you can add a snippet around an expression you’ve just typed.
+**★ With postfix completion you can add a snippet around an expression you’ve just typed.**
 
 <video controls style="max-width:100%" src="assets/DkFVBO_W4AAmGD-.mp4"></video>
 
@@ -449,13 +450,13 @@ Find a full list of snippets in Preferences | Editor | Live Templates.
 
 
 
-Jump to the definition, see the usages or open a different file – you can always go back to the file and line where you’ve started using the Navigate Back action (Cmd-[ on macOS and Ctrl-Alt-Left on Windows and Linux)
+**★ Jump to the definition, see the usages or open a different file – you can always go back to the file and line where you’ve started using the Navigate Back action (`Cmd-[` on macOS and `Ctrl-Alt-Left` on Windows and Linux)**
 
 <video controls style="max-width:100%" src="assets/DijhwgTWAAAl0XP.mp4"></video>
 
 
 
-You can remove braces from the arrow function or add them with the quick fix - press Alt-Enter and choose the action you need.
+**★ You can remove braces from the arrow function or add them with the quick fix - press `Alt-Enter` and choose the action you need.**
 
 <video controls style="max-width:100%" src="assets/DhrKG0iWsAAlKul.mp4"></video>
 
@@ -467,7 +468,7 @@ Structure view can show methods and fields inherited from the parent class or in
 
 
 
-One of the ways to add a new dependency to your project is to add an import statement, then press Alt-Enter and select “Install and add to dependencies/devDependencies in package.json”
+**★ One of the ways to add a new dependency to your project is to add an import statement, then press `Alt-Enter` and select “Install and add to dependencies/devDependencies in package.json”**
 
 ![img](assets/DgtpWPAWkAA8jft.jpg)
 
@@ -511,7 +512,7 @@ Optimize imports (Ctrl-Alt-O) helps you keep the import section in your JavaScri
 
 
 
-With Select All Occurrences (Ctrl-Cmd-G on macOS or Shift-Ctrl-Alt-J on Windows and Linux) you can edit all the occurrences of the current word or selected symbols in the file. Press Esc to remove selection.
+**★ With Select All Occurrences (`Ctrl-Cmd-G` on macOS or `Shift-Ctrl-Alt-J` on Windows and Linux) you can edit all the occurrences of the current word or selected symbols in the file. Press `Esc` to remove selection.**
 
 <video controls style="max-width:100%" src="assets/Dc1wykAW0AEAP8X.mp4"></video>
 
@@ -633,7 +634,7 @@ Want to skip some lines and stop on a not yet executed line while debugging, put
 
 
 
-Press Alt-Enter on `require('path')` or any other Node.js core module, to enable code completion for all Node.js methods.
+**★ Press Alt-Enter on `require('path')` or any other Node.js core module, to enable code completion for all Node.js methods.**
 
 ![img](assets/DVC18baX4AAb-IU.jpg)
 
@@ -712,7 +713,7 @@ When debugging, hover over expression and click + or use Quick evaluate expressi
 
 
 
-Right-click on the project root and select Local History - Show History to see and revert the recent changes
+**★ Right-click on the project root and select Local History - Show History to see and revert the recent changes**
 
 ![img](assets/DNJ2CUSXcAAV2Dn.jpg)
 
@@ -754,7 +755,7 @@ A quick way to remove parent HTML tag: select Unwrap/Remove via Find action or h
 
 
 
-Select the code, hit Alt-Cmd-T / Ctrl-Alt-T and select the statements you can quickly surround the code with.
+**★ Select the code, hit `Alt-Cmd-T` / `Ctrl-Alt-T` and select the statements you can quickly surround the code with.**
 
 ![img](assets/DIaPmYWVoAABE32.jpg)
 
@@ -766,13 +767,13 @@ Hit Ctrl-Space twice to get path completion for all files in the project; once �
 
 
 
-With postfix templates you can quickly introduce variables: type .<var/let/const> and hit Tab to expand
+**★ With postfix templates you can quickly introduce variables: type `.<var/let/const>` and hit Tab to expand**
 
 <video controls style="max-width:100%" src="assets/DH1rWwpXcAEDutI.mp4"></video>
 
 
 
-in JSX type / at the end of the Emmet abbreviation to expand it into a self-closing tag
+**★ in JSX type `/` at the end of the Emmet abbreviation to expand it into a self-closing tag**
 
 <video controls style="max-width:100%" src="assets/DHXQOoLXkAIaS5G.mp4"></video>
 
@@ -796,13 +797,13 @@ Press ^G / Alt-J to select the next occurrence of the word and ^⌘G  / Shift-Ct
 
 
 
-Quickly see a list of usages with Show usages action – Alt-Cmd-F7 on macOS or Ctrl-Alt-F7 on Windows & Linux
+**★ Quickly see a list of usages with Show usages action – `Alt-Cmd-F7` on macOS or `Ctrl-Alt-F7` on Windows & Linux**
 
 ![img](assets/C7It2sEW4AAAY9W.jpg)
 
 
 
-To see information on function or method parameters hit Cmd-P on macOS or Ctrl-P on Windows and Linux
+**★ To see information on function or method parameters hit `Cmd-P` on macOS or `Ctrl-P` on Windows and Linux**
 
 ![img](assets/C2EXidvWEAA3R7F.jpg)
 

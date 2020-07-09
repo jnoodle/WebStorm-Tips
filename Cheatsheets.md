@@ -4,10 +4,10 @@
 
 
 
-- [WebStorm's default keymaps](https://resources.jetbrains.com/storage/products/webstorm/docs/WebStorm_ReferenceCard.pdf)  
+- [Default WebStorm keymap for macOS](https://resources.jetbrains.com/storage/products/webstorm/docs/WebStorm_ReferenceCard_macOS.pdf)  
+- [Default WebStorm keymap for Windows and Linux](https://resources.jetbrains.com/storage/products/webstorm/docs/WebStorm_ReferenceCard_Windows_Linux.pdf)
 
 ## My WebStorm Keymaps
-
 
 
 | Note | KeyboradShortcut |
