@@ -8,7 +8,7 @@
 
 ★ - Highly Recommended WebStorm Productivity Tips and Tricks.
 
-<!-- Begin Jul 9, 2020 -->\
+<!-- Begin Jul 9, 2020 -->
 
 
 **★ In WebStormIDE you can `⌘+Click` / `Ctrl+Click` on a tab that will show a popup to reveal that specific file in finder**
@@ -16,7 +16,7 @@
 <video controls style="max-width:100%" src="assets/WebStormIDE-1280866829427187713.mp4"></video>
 
 
-Install the Awesome Console plugin from Preferences/Settings | Plugins to make all files in the Run and Terminal tool windows clickable.
+Install the Awesome Console plugin from Preferences/Settings \| Plugins to make all files in the Run and Terminal tool windows clickable.
 
 <video controls style="max-width:100%" src="assets/WebStormIDE-1280161965994921984.mp4"></video>
 
@@ -31,7 +31,7 @@ Have way too many tabs open and need to close them all quickly? Right-click on t
 <video controls style="max-width:100%" src="assets/WebStormIDE-1275082364826214400.mp4"></video>
 
 
-Install the [Randomness plugin](https://blog.jetbrains.com/webstorm/2020/05/plugins-for-webstorm-you-need-to-know-about/#randomness) from Preferences/Settings | Plugins if you're getting stuck coming up with some random data for your project. This plugin allows you to insert random numbers, strings, and UUIDs.
+Install the [Randomness plugin](https://blog.jetbrains.com/webstorm/2020/05/plugins-for-webstorm-you-need-to-know-about/#randomness) from Preferences/Settings \| Plugins if you're getting stuck coming up with some random data for your project. This plugin allows you to insert random numbers, strings, and UUIDs.
 
 ![img](assets/WebStormIDE-1272906586705575937-1.jpg)
 
@@ -86,7 +86,7 @@ Postfix templates in WebStormIDE are awesome!
 <video controls style="max-width:100%" src="assets/idnan_se-1255212961431539718.mp4"></video>
 
 
-Want to run Prettier on save in all new projects? From the main menu, go to File | New Project Settings | Preferences/Settings for New Projects, then tick `Run on save for files` in Languages & Frameworks | JavaScript | Prettier.
+Want to run Prettier on save in all new projects? From the main menu, go to File \| New Project Settings \| Preferences/Settings for New Projects, then tick `Run on save for files` in Languages & Frameworks \| JavaScript \| Prettier.
 
 ![img](assets/WebStormIDE-1254818952515072001-1.jpg)
 
@@ -126,12 +126,12 @@ With the new Zen mode, you can focus completely on your code. When it's on, you'
 ![img](assets/WebStormIDE-1248622674902843393-1.jpg)
 
 
-Want to make indentation more readable and find problems with it faster? The Indent Rainbow plugin can help do both! Install it from Preferences/Settings | Plugins to have all indents colorized. If the wrong indentation is used, the line will be highlighted in red.
+Want to make indentation more readable and find problems with it faster? The Indent Rainbow plugin can help do both! Install it from Preferences/Settings \| Plugins to have all indents colorized. If the wrong indentation is used, the line will be highlighted in red.
 
 ![img](assets/WebStormIDE-1247238094694363136-1.jpg)
 
 
-Install the [String Manipulation plugin](https://plugins.jetbrains.com/plugin/2162-string-manipulation) from Preferences/Settings | Plugins to get support for advanced text manipulation actions such as switching from camelCase to kebab-lowercase and much more.
+Install the [String Manipulation plugin](https://plugins.jetbrains.com/plugin/2162-string-manipulation) from Preferences/Settings \| Plugins to get support for advanced text manipulation actions such as switching from camelCase to kebab-lowercase and much more.
 
 <video controls style="max-width:100%" src="assets/WebStormIDE-1245402349692235784.mp4"></video>
 
@@ -146,7 +146,7 @@ Turn on semantic highlighting to extend the standard syntax highlighting with un
 <video controls style="max-width:100%" src="assets/WebStormIDE-1242854644050771968.mp4"></video>
 
 
-Need to present at meetings or online events, record screencasts or do pair programming? Install the Presentation Assistant plugin from Preferences/Settings | Plugins - it will display the shortcuts you used and make it easier for the audience to follow your actions.
+Need to present at meetings or online events, record screencasts or do pair programming? Install the Presentation Assistant plugin from Preferences/Settings \| Plugins - it will display the shortcuts you used and make it easier for the audience to follow your actions.
 
 <video controls style="max-width:100%" src="assets/WebStormIDE-1242487510317461509.mp4"></video>
 
@@ -157,7 +157,7 @@ Need to open a project folder in a terminal emulator? Right-click on that folder
 
 
 How to work with several projects in one IDE window:
-- Select File | Open from the main menu & choose the project you want to work with
+- Select File \| Open from the main menu & choose the project you want to work with
 - In the appeared dialog, click `Attach`
 - If you no longer need that project, right-click it & select `Remove from Project View`
 
@@ -175,7 +175,7 @@ Did you know that you can quickly hide/restore all active tool windows with `Cmd
 <video controls style="max-width:100%" src="assets/WebStormIDE-1235242372142960640.mp4"></video>
 
 
-New to WebStorm or simply want to transition to faster, mouse-free development? Install the Key Promoter X plugin from Preferences/Settings | Plugins. This plugin can help you learn some essential shortcuts while you're working.
+New to WebStorm or simply want to transition to faster, mouse-free development? Install the Key Promoter X plugin from Preferences/Settings \| Plugins. This plugin can help you learn some essential shortcuts while you're working.
 
 ![img](assets/WebStormIDE-1234547258974183424-1.jpg)
 
@@ -197,7 +197,7 @@ Did you know that you can quickly close any tool window with `Shift+Esc`?
 <video controls style="max-width:100%" src="assets/WebStormIDE-1230153981105754112.mp4"></video>
 
 
-Install the Extra Icons plugin from Preferences | Plugins to have some custom file icons in your project (works for all default and some custom themes). The full list of available icons can be found in Preferences | Appearance & Behavior | Extra Icons.
+Install the Extra Icons plugin from Preferences \| Plugins to have some custom file icons in your project (works for all default and some custom themes). The full list of available icons can be found in Preferences \| Appearance & Behavior \| Extra Icons.
 
 ![img](assets/WebStormIDE-1229458603624538115-1.jpg)
 
@@ -217,7 +217,7 @@ Press `Cmd/Ctrl-Alt-J` and select Emmet to surround a block of code with an Emme
 <video controls style="max-width:100%" src="assets/WebStormIDE-1223260104922927105.mp4"></video>
 
 
-To quickly sort lines alphabetically, select them in the editor and choose Edit | Sort Lines from the main menu or run this action using the Find Action command (`Cmd/Ctrl-Shift-A`).
+To quickly sort lines alphabetically, select them in the editor and choose Edit \| Sort Lines from the main menu or run this action using the Find Action command (`Cmd/Ctrl-Shift-A`).
 
 <video controls style="max-width:100%" src="assets/WebStormIDE-1220359794684518402.mp4"></video>
 
@@ -232,7 +232,7 @@ With the Recent Locations popup (`Cmd/Ctrl-Shift-E`), you can preview the part o
 ![img](assets/WebStormIDE-1218200011005202435-1.jpg)
 
 
-If you’re using a tool like Prettier for a project and have it configured via a file watcher, you can automatically apply this configuration to all new projects. For this, tick "Enabled" in Preferences | Tools | File Watchers when adding a new global file watcher.
+If you’re using a tool like Prettier for a project and have it configured via a file watcher, you can automatically apply this configuration to all new projects. For this, tick "Enabled" in Preferences \| Tools \| File Watchers when adding a new global file watcher.
 
 ![img](assets/WebStormIDE-1207696993415512064-1.jpg)
 
@@ -278,7 +278,7 @@ Did you know that WebStorm can automatically add an import for a symbol even if 
 
 
 WebStorm can warn you when you use a CSS property that is not supported by the target browser. 
-Go to Preferences | Editor | Inspections and enable the Browser compatibility inspection.
+Go to Preferences \| Editor \| Inspections and enable the Browser compatibility inspection.
 
 ![img](assets/WebStormIDE-1191367696484577282-1.jpg)
 
@@ -324,12 +324,12 @@ With Navigation Bar you can quickly open files in the project tree.
 <video controls style="max-width:100%" src="assets/WebStormIDE-1181932793800134658.mp4"></video>
 
 
-Whenever you’re presenting at conferences or company events, use the Presentation mode which makes it easier for the audience to see what’s going on in the editor (Ctrl + ` | View Mode | Enter Presentation Mode). 
+Whenever you’re presenting at conferences or company events, use the Presentation mode which makes it easier for the audience to see what’s going on in the editor (Ctrl + ` \| View Mode \| Enter Presentation Mode). 
 
 ![img](assets/WebStormIDE-1178993804172517376-1.jpg)
 
 
-Ever been in a situation where you accidentally deleted the code you’d been working on for a while? With Local History, you can quickly get it back: right-click on the project root, select Local History | Show History & restore what's needed.
+Ever been in a situation where you accidentally deleted the code you’d been working on for a while? With Local History, you can quickly get it back: right-click on the project root, select Local History \| Show History & restore what's needed.
 
 ![img](assets/WebStormIDE-1178693940188532738-1.jpg)
 
@@ -417,7 +417,7 @@ the IDE will warn you if the boolean expression has some unnecessary parts and c
 <video controls style="max-width:100%" src="assets/WebStormIDE-1161675443650670594-1.jpg"></video>
 
 
-Enable Method Separators in Preferences | Editor | General | Appearance to make it easier to read the code – they appear between functions and class methods.
+Enable Method Separators in Preferences \| Editor \| General \| Appearance to make it easier to read the code – they appear between functions and class methods.
 
 ![img](assets/WebStormIDE-1161290694083960835-1.jpg)
 
@@ -459,7 +459,7 @@ You can modify your snippet by adding variables to it.
 <video controls style="max-width:100%" src="assets/WebStormIDE-1152238605747871744.mp4"></video>
 
 
-You can see the color you're using in the stylesheet as a background for the color value – enable this option in Preferences | Editor | General | Appearance
+You can see the color you're using in the stylesheet as a background for the color value – enable this option in Preferences \| Editor \| General \| Appearance
 
 ![img](assets/WebStormIDE-1151526145675997184-1.jpg)
 
@@ -545,7 +545,7 @@ With the New File dialog you can also create a new folder for your new file: typ
 
 Code snippets can save you a lot of time: type the abbreviation and then press Tab to expand it into the code. Or press `Cmd/Ctrl-J` and see what snippets are available in this context.
 
-In Preferences | Editor | Live Templates you can find a full list of snippets.
+In Preferences \| Editor \| Live Templates you can find a full list of snippets.
 
 <video controls style="max-width:100%" src="assets/WebStormIDE-1131603921883918346.mp4"></video>
 
@@ -965,7 +965,7 @@ WebStorm 2018.3 can help you adhere to the WCAG recommendations  for accessibili
 
 
 Want to see documentation when you hover over a symbol? 
-Check "Show quick doc on mouse move" in Preferences | Editor | General.
+Check "Show quick doc on mouse move" in Preferences \| Editor \| General.
 And if you don't want to use the mouse, press `F1` to see the docs.
 
 <video controls style="max-width:100%" src="assets/Dr0cYD6WsAMblZV.mp4"></video>
@@ -1048,7 +1048,7 @@ Want to go back to the tab you’ve just closed? Use the Reopen closed tab actio
 
 
 
-Pin a tab to prevent it from closing automatically when the number of tabs exceeds the limit set in Preferences | Editor | General | Editor Tabs. 
+Pin a tab to prevent it from closing automatically when the number of tabs exceeds the limit set in Preferences \| Editor \| General \| Editor Tabs. 
 And you can use Close All but Pinned to close all other tabs.
 
 <video controls style="max-width:100%" src="assets/Dn8NQIuXoAAXghN.mp4"></video>
@@ -1156,7 +1156,7 @@ In WebStorm 2018.2 you can now remove, disable and configure breakpoints with th
 
 WebStorm 2018.2 now has a collection of React code snippets.
 Type the abbreviation and press Tab to expand it or press `Cmd/Ctrl-J` and select a snippet from the list. 
-Find a full list of snippets in Preferences | Editor | Live Templates.
+Find a full list of snippets in Preferences \| Editor \| Live Templates.
 
 <video controls style="max-width:100%" src="assets/DjHySOXW0AAWQxh.mp4"></video>
 
@@ -1199,7 +1199,7 @@ Want to create a reusable code snippet? Select the code in the editor and use th
 
 
 Surround your expression with template code using postfix completion: type . and the abbreviation, then press Enter.
-Find available templates in Preferences | Editor | General | Postfix Completion. And add your own in WebStorm 2018.2 EAP.
+Find available templates in Preferences \| Editor \| General \| Postfix Completion. And add your own in WebStorm 2018.2 EAP.
 
 <video controls style="max-width:100%" src="assets/DfAxGTIWAAEDmzc.mp4"></video>
 
@@ -1260,7 +1260,7 @@ In the JavaScript and TypeScript calsses, press `Ctrl-O` to select methods from 
 
 
 
-For the React attributes in JSX, you can add quotes or braces after the `=` sign. You can configure what WebStorm adds in Preferences | Editor | Code Style - HTML - Add for JSX attributes. Select "Based on type" if you want WebStorm to guess the best option.
+For the React attributes in JSX, you can add quotes or braces after the `=` sign. You can configure what WebStorm adds in Preferences \| Editor \| Code Style - HTML - Add for JSX attributes. Select "Based on type" if you want WebStorm to guess the best option.
 
 <video controls style="max-width:100%" src="assets/DaWjRTwXcAANR11.mp4"></video>
 
@@ -1358,7 +1358,7 @@ Extract Vue component intention and brings lots of improvements in the React Nat
 
 
 
-See a full list of available code snippets for Vue.js in Preferences | Editor | Live Templates – type the abbreviation in your component – press Tab – voilà!
+See a full list of available code snippets for Vue.js in Preferences \| Editor \| Live Templates – type the abbreviation in your component – press Tab – voilà!
 
 <video controls style="max-width:100%" src="assets/DUzHDlaXkAEt9uU.mp4"></video>
 
